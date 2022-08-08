@@ -514,7 +514,7 @@ The four attack families constructed based on the 89 DDoS species are shown belo
 </table>
 
 ### References
-- [From Louvain to Leiden: guaranteeing well-connected communities](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41598-019-41695-z.pdf), Vincent A. Traag,  Ludo Waltman, and Nees Jan van Eck - Scientific reports
+- [From Louvain to Leiden: guaranteeing well-connected communities](https://www.nature.com/articles/s41598-019-41695-z?ref=https://githubhelp.com), Vincent A. Traag,  Ludo Waltman, and Nees Jan van Eck - Scientific reports
 - [Community Structure in Time-Dependent, Multiscale, and Multiplex Networks](https://www.science.org/doi/10.1126/science.1184819), Mucha Peter J, Richardson Thomas, Macon Kevin, Porter Mason A, and Onnela Jukka-Pekka - Science
 - [Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches](https://www.ndss-symposium.org/ndss-paper/fare-enabling-fine-grained-attack-categorization-under-low-quality-labeled-data/), Menghao Zhang, Guanyu Li, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, and Jianping Wu - NDSS 2020
 - [MazeBolt Knowledge Base.] (https://kb.mazebolt.com/), MAZEBOLT - Online 2016
